@@ -79,6 +79,9 @@ Ce RAID 1 est configuré avec `md0` et ses partitions (`md0p1`, `md0p2`, `md0p5`
 
 ![Pasted image 20250117124615](https://github.com/user-attachments/assets/d3d90742-61c3-4592-a3e9-0589dcb702d7)
 
+![image](https://github.com/user-attachments/assets/8e40e37f-5374-4715-bd52-fa2c18a6de47)
+
+
 
 **Q.2.3.5** Combien d'espace disponible reste-t-il dans le groupe de volume ?
 
